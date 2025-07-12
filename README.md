@@ -122,6 +122,6 @@ _You can add a UI screenshot or sample PDF output here_
 ## 👨‍💻 Developed By
 
 Made with 💻 + 🧠 by **Rajguru Thevar**  
-Feel free to fork, contribute, or reuse for your own internship / final year project!
+Feel free to fork, contribute, or reuse for your own project!
 
 ---
