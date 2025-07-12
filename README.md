@@ -115,7 +115,8 @@ Download the generated PDF
 
 ## 📸 Screenshot
 
-_You can add a UI screenshot or sample PDF output here_
+<img width="1879" height="694" alt="image" src="https://github.com/user-attachments/assets/970e4484-028b-4596-ad82-18d684cce674" />
+
 
 ---
 
